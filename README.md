@@ -1,10 +1,11 @@
-Production Apps
+# Production Apps
+
 * Llevar una aplicación a producción:
 	- Heroku (Avanzado)
 	- AWS + Docker (Básico)
 	- Serverless (Conocer que existe)
-* Seguridad ? (Una sesion)
-	- SQL injection -
+* Seguridad (Una sesion)
+	- SQL injection
 	- Scoping
 	- CORS - Paquete Express
 	- Token 
